@@ -1,5 +1,5 @@
 import { createApp } from "https://unpkg.com/vue@3/dist/vue.esm-browser.js";
-import { url } from "/config.js";
+import { url } from "./config.js";
 
 createApp({
   // 資料(函式)

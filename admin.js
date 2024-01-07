@@ -1,5 +1,5 @@
 import { createApp } from "https://unpkg.com/vue@3/dist/vue.esm-browser.js";
-import { url, path } from "/config.js";
+import { url, path } from "./config.js";
 
 // 取 token
 const token = document.cookie.replace(
